@@ -16,7 +16,7 @@ The Nokia multi-span data is in binary format. Examples of how to read these fil
 
 ## Cable geometry
 
-_map will go here_
+![cable geometry](website_map.png)
 
 
 
