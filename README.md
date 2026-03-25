@@ -4,7 +4,7 @@ This repository provides information on how to understand the organization and a
 ## Data access
 Both the multi-span and OptoDAS data can be accessed at the following link:
 
-_placeholder - link goes here_
+[http://piweb.ooirsn.uw.edu/das25](http://piweb.ooirsn.uw.edu/das25)
 
 The data is organized into two separate directories, which are then sorted by year, month, date, and cable.
 
@@ -16,7 +16,7 @@ The Nokia multi-span data is in binary format. Examples of how to read these fil
 
 ## Cable geometry
 
-![cable geometry](website_map.png)
+![cable geometry](multispan_ooi_website_map_plot.jpeg)
 
 
 
