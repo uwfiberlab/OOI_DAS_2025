@@ -5,6 +5,8 @@ This repository provides information on how to understand the organization and a
 
 In-depth documentation of the metadata, file types, and various complexities associated with the data can be found in PDF format in the documentation/ folder. 
 
+### _Please note that the OptoDAS interrogator experienced significant calibration issues during the experiment, leading to overall poorer data quality, especially for smaller gauge lengths. See PDFs for more details._
+
 ## Data access
 Both the multi-span and OptoDAS data can be accessed at the following link:
 
