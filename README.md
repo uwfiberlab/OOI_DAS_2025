@@ -1,6 +1,12 @@
 # OOI_DAS_2025
 This repository provides information on how to understand the organization and access the data from the Ocean Observatories Initiative (OOI) Regional Cabled Array's Distributed Acoustic Sensing (DAS) tests conducted from November 2025-January 2026. There were two DAS systems tested during this period: Nokia's multi-span system, tested on both cables, and an OptoDAS system from Alcatel Subsea Networks, tested on the first span of the south cable. 
 
+The manuscript for this experiment is currently in review, and the preprint associated with the data can be found here: https://doi.org/10.22541/essoar.15004068/v1
+
+If you use these datasets, please cite the following DOIs:
+- OptoDAS data: https://doi.org/10.5281/zenodo.19930457
+- Multispan data: https://doi.org/10.5281/zenodo.19930402
+
 ## Data details
 
 In-depth documentation of the metadata, file types, and various complexities associated with the data can be found in PDF format in the documentation/ folder. 
